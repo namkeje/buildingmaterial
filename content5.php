@@ -6,10 +6,6 @@
 </head>
 
 <body>
-<script>
-document.getElementById("slide").style.display='none';
-document.title='Sale Off';
-</script>
 <div style="width:100%; height:800px">
 <img src="photo/sale.jpg" style="width:100%; height:300px;border: 1px solid rgba(0,0,0,0.15);" />
 </div>
