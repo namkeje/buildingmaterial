@@ -4,7 +4,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title></title>
 </head>
-
+<?php echo "";?>
 <body>
 	<div style="width:100%; height:530px">
             	<h3 class="danhmuc"><b>DANH MỤC MUA HÀNG</b></h3>
